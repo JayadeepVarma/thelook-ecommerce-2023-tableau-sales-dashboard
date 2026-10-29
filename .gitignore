@@ -1,0 +1,7 @@
+# I do not push row-level data or original Kaggle files to GitHub.
+*.csv
+*.zip
+*.parquet
+*.twbx
+*.twb
+__pycache__/
